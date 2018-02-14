@@ -60,7 +60,7 @@
       &:not(:first-child)
         margin-top: 5px
   .notify
-    z-index: 100
+    z-index: 2000
 </style>
 <script>
   import Vue from 'vue'
